@@ -16,7 +16,7 @@
 
 #### Univariate Gaussian
 
-![image-20210220091728018](Theoretical Foundations of Machine Learning/screenshots/image-20210220091728018.png/image-20210220091728018.png)
+![image-20210220091728018](https://github.com/RanaHabib00/studium-summaria/blob/main/Theoretical%20Foundations%20of%20Machine%20Learning/screenshots/image-20210220092715299.png)
 
 #### Multivariate Gaussian
 
