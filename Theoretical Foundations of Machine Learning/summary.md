@@ -28,9 +28,9 @@
 
 ****
 
-$$
+$
 R^2 = (x − µ)^T Σ^{-1} (x − µ)
-$$
+$.
 
 ### Discriminant Functions for the Gaussian Density
 
