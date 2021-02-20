@@ -16,7 +16,7 @@
 
 #### Univariate Gaussian
 
-![image-20210220091728018](C:\Users\Zoey\AppData\Roaming\Typora\typora-user-images\image-20210220091728018.png)
+![image-20210220091728018](Theoretical Foundations of Machine Learning/screenshots/image-20210220091728018.png/image-20210220091728018.png)
 
 #### Multivariate Gaussian
 
@@ -148,5 +148,6 @@ Precision = \frac{TP}{TP + FP}
 $$
 
 $$
-Precision = \frac{184}{184 + 50} = 0.7863
+Precision = \frac{184}{184 + 50} = 0.7863
+
 $$
